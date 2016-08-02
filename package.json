@@ -6,10 +6,10 @@
     "name": "Jake Humphrey",
     "email": "jakehumphrey18@gmail.com"
   },
-  "homepage": "https://github.com/vuelation/affix",
+  "homepage": "https://github.com/vuelation/submit-button",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuelation/affix.git"
+    "url": "git+https://github.com/vuelation/submit-button.git"
   },
   "license": "MIT",
   "main": "main.vue",
