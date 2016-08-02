@@ -1,0 +1,19 @@
+{
+  "name": "vuelation-submit-button",
+  "description": "Vue.js component for submitting a form with a confirmation dialog that will add the button name to the submitted params like in Rails.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jake Humphrey",
+    "email": "jakehumphrey18@gmail.com"
+  },
+  "homepage": "https://github.com/vuelation/affix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuelation/affix.git"
+  },
+  "license": "MIT",
+  "main": "main.vue",
+  "dependencies": {
+    "vue": "^1.0.24"
+  }
+}

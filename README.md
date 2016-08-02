@@ -1,4 +1,4 @@
-# Vuelatio Submit Button
+# Vuelation Submit Button
 
 A Vue.js component for submitting a form with a confirmation dialog that will add the button name to the submitted params like in Rails.
 
